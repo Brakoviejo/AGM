@@ -51,7 +51,7 @@
     <Key ID="STR_AGM_Interaction_BecomeLeader">
       <English>Become Leader</English>
       <German>Grp.-führung übern.</German>
-      <Spanish>Tomar comando del grupo</Spanish>
+      <Spanish>Liderar grupo</Spanish>
       <Polish>Przejmij dowodzenie</Polish>
       <Czech>Stát se velitelem</Czech>
       <French>Devenir Leader</French>
@@ -253,6 +253,7 @@
     <Key ID="STR_AGM_Interaction_ShowPlayerNames">
         <English>Show player names</English>
         <German>Spielernamen anzeigen</German>
+        <Spanish>Mostrar nombres de jugadores</Spanish>
         <Polish>Pokaż nazwy graczy</Polish>
         <French>Afficher nom des joueurs</French>
     </Key>
